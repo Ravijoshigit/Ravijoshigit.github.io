@@ -8,28 +8,13 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Hi Ravi here, I’ve done btech from Roorkee specializes in computer science, I loves to code , solving complex problems , Animation , websites designing and Guitar. Probably you would have seen me holding guitar ,(I was obsessed when I was young). Most of the time I sit alone holding a cup of coffee infront of computer to solve problems . Apart from this I likes to capture every moments that i have lived and play games like Nerd. specialized in Digital Marketing Field as well as good hands on Experience in Website Designing And Content Writing. i’ve worked for few MNC’s Back As a content writer (2017-19) Later I got Inspired by some top bloggers, this Motivated Me to Venture my own journey on blogging field as an entrepreneur, am currently working as freelance And working on my Few Projects of website designing which is available on Github. 😊 this Blog will Definitely guide those who wants to Enhance their Knowledge In SEO And Digital Marketing Field and website designing. If you really appreciate my work and wanna create your own website then please head over to contact us.
+
+The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+
+Thank You for reading! Happy Coding.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
 </div>
