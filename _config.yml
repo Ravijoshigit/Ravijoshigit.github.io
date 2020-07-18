@@ -2,8 +2,8 @@
 name: "BloggingwithRavi"
 title: "BloggingwithRavi"
 description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/brlovelogo.png'
+favicon: 'assets/images/brlovelogo.png'
 baseurl: /Ravijoshigit.github.io
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -16,19 +16,21 @@ authors:
   sal:
     name: Sal
     display_name: Ravi Joshi
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    avatar: 'assets/images/PicsArt_07-12-10.57.29.jpg'
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: ravi007github@gmail.com
+    web: https://Bloggingwithravi.com
+    twitter: https://twitter.com/bloggingwithravi
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
     display_name: Ravi Joshi
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    avatar: 'assets/images/PicsArt_07-12-10.57.29.jpg'
+
+    #gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: ravi007github@gmail.com
+    web: https://bloggingwithravi.com
+    twitter: https://twitter.com/bloggingwithravi
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
